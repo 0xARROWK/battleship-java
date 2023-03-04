@@ -1,0 +1,2 @@
+porte avion:0:0:HORIZONTAL:
+fregate:0:2:VERTICAL:
